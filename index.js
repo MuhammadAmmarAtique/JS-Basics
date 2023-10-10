@@ -14,5 +14,27 @@
 // Reason: a is an array which is a reference datatype so its value is refering to b.
 // i.e a=[10,11]=b
 
-// 3. 
+// 3. if( true/false)
 
+// 4. Loops
+
+// console.log("ammar")
+// console.log("ammar")
+// console.log("ammar")
+
+//Run loop from 25-50
+
+// for (let i = 25; i < 51; i++) {
+//      console.log(i);
+// }
+
+// 5.Functions
+
+// Here a,b are parameters which are the variables which stores data,which is then passed inside function body.
+// function greet(a,b)
+// {
+//     console.log("Hello", a, b,"!");
+// }
+
+// // Here Ammar,Rafeh are arguments (values which will be given to function)
+// greet("Ammar","Rafeh");
