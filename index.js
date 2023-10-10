@@ -38,3 +38,23 @@
 
 // // Here Ammar,Rafeh are arguments (values which will be given to function)
 // greet("Ammar","Rafeh");
+
+// 6.Object
+
+// a)Blank object
+let a={};
+console.log(a);
+
+// b)Filled object
+let student={
+    name:"Ammar",
+    age:21,
+    uni:"uoh",
+    class:"bscs-5thA",
+    greeting:function Hello() {
+        console.log("hehe")
+    }
+    // here greeting is amethod not aproperty anymore b/c its value is a function
+
+}
+console.log(student.abc());
