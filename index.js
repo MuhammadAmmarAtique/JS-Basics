@@ -57,4 +57,6 @@ let student={
     // here greeting is amethod not aproperty anymore b/c its value is a function
 
 }
-console.log(student.abc());
+console.log(student.greeting());
+
+// ALHAMDULILAH LEARNED BASICS i.e FIRST VIDEO OF JS (LEARN WHAT MATTERS)
